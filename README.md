@@ -8,8 +8,14 @@ Cleaning and working with pandas dataframes of school and student district infor
 
 ### Results
 
-- PrntScreen goes here
+![school data 1](https://github.com/adarshkhub/School_District_Analysis/assets/67844710/3304d646-d1eb-4b9a-854e-e69d4fb70cf7)
 
+
+
+![school data 2](https://github.com/adarshkhub/School_District_Analysis/assets/67844710/a304fb73-217e-48bb-b9c8-a7a2cf34c054)
+
+
+![school data 3](https://github.com/adarshkhub/School_District_Analysis/assets/67844710/f3c01d47-9c6e-469f-bf8a-ba96d926bd83)
 
 ### Analysis (Do in the morning as warm-up)
 
